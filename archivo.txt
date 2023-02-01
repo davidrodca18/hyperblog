@@ -1,2 +1,3 @@
 este es un arvhico txt
 donde sirve para almacenar documentos planos y binarios
+y ademas permite controlar las versiones de los archivos
