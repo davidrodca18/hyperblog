@@ -1,0 +1,2 @@
+este es un arvhico txt
+donde sirve para almacenar documentos planos y binarios
