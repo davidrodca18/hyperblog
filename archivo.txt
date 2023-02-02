@@ -2,4 +2,6 @@ este es un arvhico txt
 donde sirve para almacenar documentos planos y binarios
 y ademas permite controlar las versiones de los archivos
 
-ademas vamos a poder coontrolar varias versiones a traves de comando por consola
+ademas vamos a poder coontrolar varias versiones a traves de comando por consola.
+
+Ademas vamos a menjar otras veriones
